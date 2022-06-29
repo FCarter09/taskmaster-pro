@@ -10,4 +10,4 @@ Some of the functionality added were drag and drop features, added columns and c
 
 Some of the changes in styling consisted of changing fonts of headings/text, appeareance of buttons, and addition of icons.
 
-Link:
+Link: https://fcarter09.github.io/taskmaster-pro/
